@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch AlienLanguageCharacterOrderDecoder",
+            "request": "launch",
+            "mainClass": "amazon.AlienLanguageCharacterOrderDecoder",
+            "projectName": "hackerrank"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParkingSwapMatcher",
+            "request": "launch",
+            "mainClass": "amazon.ParkingSwapMatcher",
+            "projectName": "hackerrank"
+        },
+        {
+            "type": "java",
+            "name": "Launch SuperReducedString",
+            "request": "launch",
+            "mainClass": "hackerrank.SuperReducedString",
+            "projectName": "hackerrank"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountSort4",
+            "request": "launch",
+            "mainClass": "hackerrank.CountSort4",
+            "projectName": "hackerrank"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueenAttackSolution",
+            "request": "launch",
+            "mainClass": "hackerrank.QueenAttackSolution",
+            "projectName": "hackerrank"
+        },
+        {
+            "type": "java",
+            "name": "Launch SofiTest",
+            "request": "launch",
+            "mainClass": "hackerrank.SofiTest",
+            "projectName": "hackerrank"
+        }
+    ]
+}
